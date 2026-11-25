@@ -1,0 +1,4 @@
+101|Laptop|Electronics|85000
+102|Mouse|Accessories|1500
+103|Keyboard|Accessories|3500
+104|Headphones|Electronics|6000
